@@ -59,6 +59,28 @@ Aquí encontrarás:
 
 ---
 
+## ¿Cómo se califica!!?
+
+1. 40% reporte de laboratorio. (incluida asistencia)
+     1. 75% es correr tests en github actions
+     2. 25% es análisis de errores, y ejecución completa de tests.
+        
+        Es decir, tu respondes los problemas que te proponga y los corres con mis tests, si todos pasan pues tienes 10 o sea 75% + 25%, si de 10 tests solo pasaron 8
+        entonces el 80% del 75% es tu parte de esta primera ronda y el siguiente 25% se calcula igual sobre la siguiente tanda de ejecución de tests. Te recomiendo que
+        siempre revises los escenarios frontera jeje y tambien que hagas tus propios programas para testear tu propio código.
+        El 100% es sumar lo que saques en 1 y 2.
+3. 50% tareas.
+     1. 75% es ejercicios teóricos.
+     2. 25% es correr tests de gh actions.
+  
+        Acá lo que te recomiendo es que escribas cortito y al grano las soluciones de los problemas, el detalle tecnico matematicoso, lo podemos ver nosotros en clase
+        a ver si escribe matematicas pero no es el fin, el fin es que entiendas el trasfondo del algoritmo y lo que lo sustenta.
+
+4. 20% PrOyEcTo FiNaL.
+   Así tal cual, el 5 de septiembre te comuicaré de que se trata el asunto para que te pongas a trabajar en paralelo en el.
+
+---
+
 ## 👨‍💻 Profesor del curso
 
 - **Rodrigo Moreno López**  
